@@ -12,13 +12,10 @@ A great WordPress plugin which helps you to speedup your WordPress website from 
 == Description ==
 * Author: [Fahad Mahmood](http://www.androidbubbles.com/contact)
 * Project URI: <http://www.websitedesignwebsitedevelopment.com/wordpress/plugins/wp-speedup>
+* Video Tutorial: <http://www.tutorsloop.net/app/live.php?id=3744560>
 
 WP SpeedUp is a great plugin to implement to install and forget about the page load speed issues. You can change settings from wp-admin or can leave it to default, you will feel significant difference in your website page load speed.
 
-Video Tutorial: http://www.tutorsloop.net/app/live.php?id=3744560
-
-[WDWD Blog][Wordpress][]: http://www.websitedesignwebsitedevelopment.com/category/website-development/php-frameworks/wordpress/
-[Tutor[WordPress Mechanic]press][]: http://www.tutorsloop.net/app/live.php?id=3744560
 
 Compatibility List:
 
